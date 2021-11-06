@@ -20,3 +20,9 @@ a:hover {
     border:1px dotted;
 
 }
+
+a::before {
+    font-family: "Font Awesome 5 Free", serif; font-weight: 900; content: "\f007";
+
+
+}
