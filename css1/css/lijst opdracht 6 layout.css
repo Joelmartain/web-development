@@ -7,7 +7,7 @@ li.unchecked::before {
     content: '';
     display: inline-block;
     height: 21px;
-    width: 22px;
+    width: 24px;
     background-image: url(uncheckedbox1.png);
 }
 
