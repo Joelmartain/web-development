@@ -21,8 +21,8 @@ a:hover {
 
 }
 
-a::before {
-    font-family: "Font Awesome 5 Free", serif; font-weight: 900; content: "\f007";
-
-
+img {
+    content:url("paperclip-solid.svg");
+    height: 20px;
+    width: 20px;
 }
