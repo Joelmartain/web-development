@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="075ab858-f94d-4edf-82ef-1b1c62d8680c" name="Changes" comment="upload">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css1/css/css labo 2 opdracht 4.html" beforeDir="false" afterPath="$PROJECT_DIR$/css1/css/css labo 2 opdracht 4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css1/css/layoutlijst.css" beforeDir="false" afterPath="$PROJECT_DIR$/css1/css/lijst opdracht 6 layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css1/css/lijst.html" beforeDir="false" afterPath="$PROJECT_DIR$/css1/css/css labo 2 opdracht 6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css1/css/lijst opdracht 6 layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css1/css/lijst opdracht 6 layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +44,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\web development\css1\css" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1636212644866</updated>
       <workItem from="1636212646913" duration="13677000" />
-      <workItem from="1636296499406" duration="1408000" />
+      <workItem from="1636296499406" duration="4494000" />
     </task>
     <task id="LOCAL-00001" summary="upload">
       <created>1636214182014</created>
@@ -105,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636296945024</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="upload">
+      <created>1636298168553</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1636298168553</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
