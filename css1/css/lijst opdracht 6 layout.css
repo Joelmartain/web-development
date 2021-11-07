@@ -19,6 +19,6 @@ li.checked::before {
     content: '';
     display: inline-block;
     height: 21px;
-    width: 32px;
+    width: 24px;
     background-image: url(checked4.png);
 }
