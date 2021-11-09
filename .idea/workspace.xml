@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="075ab858-f94d-4edf-82ef-1b1c62d8680c" name="Changes" comment="upload" />
+    <list default="true" id="075ab858-f94d-4edf-82ef-1b1c62d8680c" name="Changes" comment="upload">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css1/css/checked4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css1/css/lijst opdracht 6 layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css1/css/lijst opdracht 6 layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css1/css/paper-clip-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css1/css/uncheckedbox1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css1/img/square-check-regular.svg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +62,8 @@
       <updated>1636212644866</updated>
       <workItem from="1636212646913" duration="13677000" />
       <workItem from="1636296499406" duration="5991000" />
+      <workItem from="1636302608962" duration="67000" />
+      <workItem from="1636481310849" duration="1041000" />
     </task>
     <task id="LOCAL-00001" summary="upload">
       <created>1636214182014</created>

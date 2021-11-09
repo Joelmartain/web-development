@@ -8,7 +8,7 @@ li.unchecked::before {
     display: inline-block;
     height: 21px;
     width: 24px;
-    background-image: url(uncheckedbox1.png);
+    background-image: url(img/uncheckedbox1.png);
 }
 
 
@@ -20,5 +20,5 @@ li.checked::before {
     display: inline-block;
     height: 21px;
     width: 24px;
-    background-image: url(checked4.png);
+    background-image: url(img/checked4.png);
 }
