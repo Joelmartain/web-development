@@ -1,0 +1,45 @@
+
+.headerAF{
+    background-image: url("img/header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0px;
+    height: 200px;
+}
+#Title{
+    color: #EDF2F4;
+    font-size: 60px;
+    margin-top: 0px;
+}
+
+nav {
+    background-color: #282424;
+}
+
+.links {
+    color: #0ae80a;
+    padding-left: 10px;
+}
+
+body{
+    width: 1200px;
+    margin: auto;
+}
+
+article{
+    background-color: #dedada;
+    margin-top: 5px;
+    padding-top: 40px;
+    padding-left: 10px;
+
+}
+
+.h1article{
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: underline;
+    margin-top: 5px;
+    font-family: Verdana, serif;
+    color: #464141;
+}
+
