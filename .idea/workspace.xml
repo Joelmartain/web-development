@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="075ab858-f94d-4edf-82ef-1b1c62d8680c" name="Changes" comment="upload">
+      <change afterPath="$PROJECT_DIR$/css1/css/verslag CSS deel 4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +62,9 @@
       <workItem from="1636302608962" duration="67000" />
       <workItem from="1636481310849" duration="2833000" />
       <workItem from="1636531959510" duration="5306000" />
-      <workItem from="1637083163434" duration="17100000" />
+      <workItem from="1637083163434" duration="17715000" />
+      <workItem from="1637136071237" duration="6205000" />
+      <workItem from="1637427119510" duration="4957000" />
     </task>
     <task id="LOCAL-00001" summary="upload">
       <created>1636214182014</created>
