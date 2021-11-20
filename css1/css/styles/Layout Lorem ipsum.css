@@ -18,7 +18,7 @@ p {
     float: left;
     background-color: teal;
     color: white;
-    width: calc(49.70% - 10px);
+    width: calc(49.73% - 10px);
     height: auto;
     margin-left: 10px;
     border: 1px solid black;
@@ -26,7 +26,7 @@ p {
 }
 
 .cell:first-child {
-    margin-left: 0;
+    margin-left: 1px;
     margin-right: 10px;
 }
 
