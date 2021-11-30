@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="075ab858-f94d-4edf-82ef-1b1c62d8680c" name="Changes" comment="upload" />
+    <list default="true" id="075ab858-f94d-4edf-82ef-1b1c62d8680c" name="Changes" comment="upload">
+      <change afterPath="$PROJECT_DIR$/css1/css/styles/layout opdracht airbus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css1/css/styles/layout positioneren van images.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css1/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,8 +55,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\GitHub\web development\css1\css" />
       <recent name="C:\GitHub\web development\css1\css\styles" />
+      <recent name="C:\GitHub\web development\css1\css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -70,6 +75,11 @@
       <workItem from="1637083163434" duration="17715000" />
       <workItem from="1637136071237" duration="6205000" />
       <workItem from="1637427119510" duration="14622000" />
+      <workItem from="1637504056873" duration="81000" />
+      <workItem from="1637508614755" duration="78000" />
+      <workItem from="1637510241857" duration="1369000" />
+      <workItem from="1637520674834" duration="724000" />
+      <workItem from="1638280986215" duration="10840000" />
     </task>
     <task id="LOCAL-00001" summary="upload">
       <created>1636214182014</created>
