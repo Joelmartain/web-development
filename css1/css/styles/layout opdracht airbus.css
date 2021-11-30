@@ -6,20 +6,17 @@ body {
 .header {
     background-image: url(../img/bgsky3.jpg);
     background-repeat: no-repeat;
-    height: 150px;
+    height: 200px;
     color: white;
     text-align: center;
     margin-top: 0;
 }
 
-#image{
-    width: 140px;
-}
 
 .header > img {
     position: absolute;
-    right: 218px;
-    bottom: 105px;
+    right: 90px;
+    bottom: 60px;
 
 }
 
@@ -30,7 +27,7 @@ body {
 }
 
 #Titel {
-    font-size: 35px;
+    font-size: 300%;
     font-style: italic;
     font-weight: bold;
     color: darkblue;
@@ -39,16 +36,17 @@ body {
 }
 
 #Ondertitel {
-    font-size: 25px;
     color: darkblue;
     font-weight: bold;
     font-family: Arial, serif;
     margin-top: 0;
+    font-size: 240%;
 }
 
 #Airbus{
     float: left;
     padding-top: 20px;
+    font-size: 700%;
 }
 
 
