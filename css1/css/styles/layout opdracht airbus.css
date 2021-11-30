@@ -12,8 +12,21 @@ body {
     margin-top: 0;
 }
 
-#vliegtuig{
-    
+#image{
+    width: 140px;
+}
+
+.header > img {
+    position: absolute;
+    right: 218px;
+    bottom: 105px;
+
+}
+
+.header {
+    height: 200px;
+    background-image: url(../img/bgsky3.jpg);
+    position:relative;
 }
 
 #Titel {
