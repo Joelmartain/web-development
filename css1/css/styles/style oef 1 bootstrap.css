@@ -11,7 +11,7 @@ body{
 }
 
 .col-7 {
-    background-color: lightgray;
+    background-color: #383232;
     padding-top: 10px;
     margin: 10px;
     height: auto;
@@ -19,7 +19,7 @@ body{
 }
 
 .col-6 {
-    background-color: lightgray;
+    background-color: #383232;
     padding-top: 10px;
     margin: 10px;
     height: auto;
@@ -40,6 +40,11 @@ body{
     margin: 10px;
     height: auto;
     text-align: center;
+}
+
+#donkergrijs {
+    background-color: #383232;
+
 }
 
 
