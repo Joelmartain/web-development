@@ -3,6 +3,8 @@ body {
     margin: auto;
 }
 
+
+
 .top {
     background-image: url(../img/bgsky3.jpg);
     background-repeat: no-repeat;
@@ -41,10 +43,9 @@ body {
     font-size: 240%;
 }
 
-#Airbus{
+#logo{
     float: left;
     padding-top: 20px;
-    font-size: 700%;
 }
 
 
