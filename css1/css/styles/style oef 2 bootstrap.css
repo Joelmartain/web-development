@@ -31,9 +31,17 @@
     .col-lg {
         background-color: lightgray;
         padding-top: 10px;
-        margin: 5px;
+        margin: 10px;
         height: 200px;
         width:  200px;
     }
 
+}
+
+#donkergrijs{
+    background-color: #3d3939;
+}
+
+#donkergrijs1{
+    background-color: #3d3939;
 }
