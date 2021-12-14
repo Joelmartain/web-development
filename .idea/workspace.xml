@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="075ab858-f94d-4edf-82ef-1b1c62d8680c" name="Changes" comment="upload">
-      <change beforePath="$PROJECT_DIR$/css1/css/styles/style oef 2 bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css1/css/styles/style oef 2 bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css1/css/Oef 2 bootstrap.htm" beforeDir="false" afterPath="$PROJECT_DIR$/css1/css/Oef 2 bootstrap.htm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,14 +87,8 @@
       <workItem from="1638309597386" duration="1064000" />
       <workItem from="1638881055621" duration="8716000" />
       <workItem from="1638890096201" duration="14872000" />
-      <workItem from="1638911625548" duration="2216000" />
-    </task>
-    <task id="LOCAL-00005" summary="upload">
-      <created>1636223222618</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1636223222618</updated>
+      <workItem from="1638911625548" duration="2924000" />
+      <workItem from="1639513399156" duration="1022000" />
     </task>
     <task id="LOCAL-00006" summary="upload">
       <created>1636226743483</created>
@@ -431,7 +426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638914391850</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="upload">
+      <created>1638914518756</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1638914518756</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
